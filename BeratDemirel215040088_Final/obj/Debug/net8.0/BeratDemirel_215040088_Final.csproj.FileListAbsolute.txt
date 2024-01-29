@@ -1,0 +1,28 @@
+C:\Users\berat\OneDrive\Masaüstü\Introduction To Game Programming\YeniFinalProject\bin\Debug\net8.0\BeratDemirel_215040088_Final.exe
+C:\Users\berat\OneDrive\Masaüstü\Introduction To Game Programming\YeniFinalProject\bin\Debug\net8.0\BeratDemirel_215040088_Final.deps.json
+C:\Users\berat\OneDrive\Masaüstü\Introduction To Game Programming\YeniFinalProject\bin\Debug\net8.0\BeratDemirel_215040088_Final.runtimeconfig.json
+C:\Users\berat\OneDrive\Masaüstü\Introduction To Game Programming\YeniFinalProject\bin\Debug\net8.0\BeratDemirel_215040088_Final.dll
+C:\Users\berat\OneDrive\Masaüstü\Introduction To Game Programming\YeniFinalProject\bin\Debug\net8.0\BeratDemirel_215040088_Final.pdb
+C:\Users\berat\OneDrive\Masaüstü\Introduction To Game Programming\YeniFinalProject\obj\Debug\net8.0\BeratDemirel_215040088_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berat\OneDrive\Masaüstü\Introduction To Game Programming\YeniFinalProject\obj\Debug\net8.0\BeratDemirel_215040088_Final.AssemblyInfoInputs.cache
+C:\Users\berat\OneDrive\Masaüstü\Introduction To Game Programming\YeniFinalProject\obj\Debug\net8.0\BeratDemirel_215040088_Final.AssemblyInfo.cs
+C:\Users\berat\OneDrive\Masaüstü\Introduction To Game Programming\YeniFinalProject\obj\Debug\net8.0\BeratDemirel_215040088_Final.csproj.CoreCompileInputs.cache
+C:\Users\berat\OneDrive\Masaüstü\Introduction To Game Programming\YeniFinalProject\obj\Debug\net8.0\BeratDemirel_215040088_Final.dll
+C:\Users\berat\OneDrive\Masaüstü\Introduction To Game Programming\YeniFinalProject\obj\Debug\net8.0\refint\BeratDemirel_215040088_Final.dll
+C:\Users\berat\OneDrive\Masaüstü\Introduction To Game Programming\YeniFinalProject\obj\Debug\net8.0\BeratDemirel_215040088_Final.pdb
+C:\Users\berat\OneDrive\Masaüstü\Introduction To Game Programming\YeniFinalProject\obj\Debug\net8.0\BeratDemirel_215040088_Final.genruntimeconfig.cache
+C:\Users\berat\OneDrive\Masaüstü\Introduction To Game Programming\YeniFinalProject\obj\Debug\net8.0\ref\BeratDemirel_215040088_Final.dll
+C:\Users\berat\OneDrive\Masaüstü\BeratDemirel215040088_Final\bin\Debug\net8.0\BeratDemirel_215040088_Final.exe
+C:\Users\berat\OneDrive\Masaüstü\BeratDemirel215040088_Final\bin\Debug\net8.0\BeratDemirel_215040088_Final.deps.json
+C:\Users\berat\OneDrive\Masaüstü\BeratDemirel215040088_Final\bin\Debug\net8.0\BeratDemirel_215040088_Final.runtimeconfig.json
+C:\Users\berat\OneDrive\Masaüstü\BeratDemirel215040088_Final\bin\Debug\net8.0\BeratDemirel_215040088_Final.dll
+C:\Users\berat\OneDrive\Masaüstü\BeratDemirel215040088_Final\bin\Debug\net8.0\BeratDemirel_215040088_Final.pdb
+C:\Users\berat\OneDrive\Masaüstü\BeratDemirel215040088_Final\obj\Debug\net8.0\BeratDemirel_215040088_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berat\OneDrive\Masaüstü\BeratDemirel215040088_Final\obj\Debug\net8.0\BeratDemirel_215040088_Final.AssemblyInfoInputs.cache
+C:\Users\berat\OneDrive\Masaüstü\BeratDemirel215040088_Final\obj\Debug\net8.0\BeratDemirel_215040088_Final.AssemblyInfo.cs
+C:\Users\berat\OneDrive\Masaüstü\BeratDemirel215040088_Final\obj\Debug\net8.0\BeratDemirel_215040088_Final.csproj.CoreCompileInputs.cache
+C:\Users\berat\OneDrive\Masaüstü\BeratDemirel215040088_Final\obj\Debug\net8.0\BeratDemirel_215040088_Final.dll
+C:\Users\berat\OneDrive\Masaüstü\BeratDemirel215040088_Final\obj\Debug\net8.0\refint\BeratDemirel_215040088_Final.dll
+C:\Users\berat\OneDrive\Masaüstü\BeratDemirel215040088_Final\obj\Debug\net8.0\BeratDemirel_215040088_Final.pdb
+C:\Users\berat\OneDrive\Masaüstü\BeratDemirel215040088_Final\obj\Debug\net8.0\BeratDemirel_215040088_Final.genruntimeconfig.cache
+C:\Users\berat\OneDrive\Masaüstü\BeratDemirel215040088_Final\obj\Debug\net8.0\ref\BeratDemirel_215040088_Final.dll
